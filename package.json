@@ -1,0 +1,20 @@
+{
+  "name": "pharos-testnet-automation",
+  "version": "1.0.0",
+  "description": "Da So Thi Dung Dung - Da Dung Thi Dung So",
+  "main": "dancay.js",
+  "scripts": {
+    "start": "node dancay.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "axios": "^1.6.0",
+    "https-proxy-agent": "^7.0.2",
+    "colors": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
